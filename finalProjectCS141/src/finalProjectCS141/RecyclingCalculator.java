@@ -26,7 +26,8 @@ public class RecyclingCalculator {
 
 	        double carbonSaved = paper * 0.46 + plastics * 1.7 + metal * 4 + glass * 0.3;
 
-	        System.out.println("Estimated CO2 saved per day: " + carbonSaved + " kg");
+	        System.out.println("Estimated CO2 saved per day: " + carbonSaved + " kg. \n Returning to main menu.");
+
 	    }
 	}
 }
