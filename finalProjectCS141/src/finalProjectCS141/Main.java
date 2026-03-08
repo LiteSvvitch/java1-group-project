@@ -5,7 +5,7 @@
 // Also sorry if there are bugs
 //======================================================================
 
-package finalProjectCS141;
+//package finalProjectCS141;
 
 import java.util.Scanner;
 
@@ -28,12 +28,12 @@ public class Main {
 		
 		// Prints program name
 		
-		String programName = "Recycle Tracker"; // Temporary Name
+		String programName = "Recycling Tracker"; // Temporary Name
 		System.out.println(largeDivider + "\n"+ programName +"\n" + largeDivider);
 		
 		// Main loop
 		
-		while(userInput != 6) {
+		while(userInput != 5) {
 			mainMenu();
 			
 			// Gets user input
@@ -50,15 +50,16 @@ public class Main {
 				//	break;
 				
 				case 1:
-					// add a feature
+					// feature: info on general recycling practices (should I call a class/method or just use println here?)
+					
 					break;
 					
 				case 2:
-					// add a feature
+					// feature: Recycling log
 					break;
 					
 				case 3:
-					// add a feature
+					//calculator RecyclingCalculator = new calculator(); //not sure if this will work -zack
 					break;
 				
 				case 4:
