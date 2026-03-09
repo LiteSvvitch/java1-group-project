@@ -27,7 +27,7 @@ public class Main {
 		
 		// Main loop
 		
-		while(userInput != 5) {
+		while(userInput != 6) {
 			mainMenu();
 			
 			// Gets user input
@@ -39,27 +39,28 @@ public class Main {
 			// Different functionalities depending on user input
 			
 			switch(userInput) {
-				//case 0:
-					// add a feature
-				//	break;
-				
 				case 1:
-					// add a feature
+					RecycleLogEditor.addMaterial(scanner);
 					break;
 					
 				case 2:
-					// add a feature
+					RecycleLogEditor.editLog(scanner);
+					break;
+
+				case 3:
+					System.out.println("\nRecycle Log\n" + divider);
+					RecycleLogEditor.recycleLog.displayLog();
 					break;
 					
-				case 3:
+				case 4:
 					RecyclingCalculator.run(scanner);
 					break;
 				
-				case 4:
+				case 5:
 					joinGroup();
 					break;
 					
-				case 5:
+				case 6:
 					// Main loop ends
 					break;
 					
@@ -81,11 +82,12 @@ public class Main {
 		
 		// Currently hardcoded, there is probably a better solution
 		System.out.println("""
-				1. View information on recycling programs
+				1. Add Material
 				2. Create/Edit Recycle Log
-				3. Recycling Calculator
-				4. Join a Local Group
-				5. Exit
+				3. View Recycle Log
+				4. Recycling Calculator
+				5. Join a Local Group
+				6. Exit
 				""");
 	}
 	
