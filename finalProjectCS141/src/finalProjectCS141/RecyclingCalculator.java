@@ -1,4 +1,4 @@
-//package finalProjectCS141;
+package finalProjectCS141;
 
 import java.util.Scanner;
 

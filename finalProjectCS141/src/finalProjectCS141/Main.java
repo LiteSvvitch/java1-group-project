@@ -1,5 +1,4 @@
-
-//package finalProjectCS141;
+package finalProjectCS141;
 
 import java.util.Scanner;
 
@@ -41,16 +40,21 @@ public class Main {
 			switch(userInput) {
 				case 1:
 					// feature: info on general recycling practices (should I call a class/method or just use println here?)
-					
+					RecycleLogEditor.addMaterial(scanner);
 					break;
 					
 				case 2:
-					// feature: Recycling log
+					RecycleLogEditor.editLog(scanner);
 					break;
 
 				case 3:
-					// add a feature
+					System.out.println("\nRecycle Log\n" + divider);
+					RecycleLogEditor.recycleLog.displayLog();
 					break;
+
+				case 4:
+					 RecyclingCalculator.run(scanner);
+				break;
 				
 				case 5:
 					joinGroup();
