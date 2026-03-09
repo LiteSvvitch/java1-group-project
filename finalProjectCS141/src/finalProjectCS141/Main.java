@@ -1,9 +1,3 @@
-//======================================================================
-// This is just an idea for what we can do, we don't have to use this
-// I tried adding a "Join a Local Group" feature
-// Sorry if the code is messy or unreadable
-// Also sorry if there are bugs
-//======================================================================
 
 package finalProjectCS141;
 
