@@ -33,7 +33,7 @@ public class Main {
 		
 		// Main loop
 		
-		while(userInput != 6) {
+		while(userInput != 5) {
 			mainMenu();
 			
 			// Gets user input
@@ -58,7 +58,7 @@ public class Main {
 					break;
 					
 				case 3:
-					// add a feature
+					RecyclingCalculator.run(scanner);
 					break;
 				
 				case 4:
