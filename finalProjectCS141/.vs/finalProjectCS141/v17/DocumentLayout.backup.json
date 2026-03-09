@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zackd\\source\\repos\\java1-group-project\\finalProjectCS141\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zackd\\source\\repos\\java1-group-project\\finalProjectCS141\\src\\finalProjectCS141\\Main.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\finalProjectCS141\\Main.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zackd\\source\\repos\\java1-group-project\\finalProjectCS141\\src\\finalProjectCS141\\RecyclingCalculator.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\finalProjectCS141\\RecyclingCalculator.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zackd\\source\\repos\\java1-group-project\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zackd\\source\\repos\\java1-group-project\\finalProjectCS141\\src\\finalProjectCS141\\Group.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\finalProjectCS141\\Group.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.java",
+              "DocumentMoniker": "C:\\Users\\zackd\\source\\repos\\java1-group-project\\finalProjectCS141\\src\\finalProjectCS141\\Main.java",
+              "RelativeDocumentMoniker": "src\\finalProjectCS141\\Main.java",
+              "ToolTip": "C:\\Users\\zackd\\source\\repos\\java1-group-project\\finalProjectCS141\\src\\finalProjectCS141\\Main.java",
+              "RelativeToolTip": "src\\finalProjectCS141\\Main.java",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-08T20:37:28.432Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecyclingCalculator.java",
+              "DocumentMoniker": "C:\\Users\\zackd\\source\\repos\\java1-group-project\\finalProjectCS141\\src\\finalProjectCS141\\RecyclingCalculator.java",
+              "RelativeDocumentMoniker": "src\\finalProjectCS141\\RecyclingCalculator.java",
+              "ToolTip": "C:\\Users\\zackd\\source\\repos\\java1-group-project\\finalProjectCS141\\src\\finalProjectCS141\\RecyclingCalculator.java",
+              "RelativeToolTip": "src\\finalProjectCS141\\RecyclingCalculator.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-08T20:46:02.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Group.java",
+              "DocumentMoniker": "C:\\Users\\zackd\\source\\repos\\java1-group-project\\finalProjectCS141\\src\\finalProjectCS141\\Group.java",
+              "RelativeDocumentMoniker": "src\\finalProjectCS141\\Group.java",
+              "ToolTip": "C:\\Users\\zackd\\source\\repos\\java1-group-project\\finalProjectCS141\\src\\finalProjectCS141\\Group.java",
+              "RelativeToolTip": "src\\finalProjectCS141\\Group.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-08T20:46:02.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\zackd\\source\\repos\\java1-group-project\\README.md",
+              "RelativeDocumentMoniker": "..\\README.md",
+              "ToolTip": "C:\\Users\\zackd\\source\\repos\\java1-group-project\\README.md",
+              "RelativeToolTip": "..\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-08T20:36:33.178Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

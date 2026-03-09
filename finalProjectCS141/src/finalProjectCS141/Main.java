@@ -1,5 +1,5 @@
 
-package finalProjectCS141;
+//package finalProjectCS141;
 
 import java.util.Scanner;
 
@@ -22,7 +22,7 @@ public class Main {
 		
 		// Prints program name
 		
-		String programName = "Recycle Tracker"; // Temporary Name
+		String programName = "Recycling Tracker"; // Temporary Name
 		System.out.println(largeDivider + "\n"+ programName +"\n" + largeDivider);
 		
 		// Main loop
@@ -40,20 +40,16 @@ public class Main {
 			
 			switch(userInput) {
 				case 1:
-					RecycleLogEditor.addMaterial(scanner);
+					// feature: info on general recycling practices (should I call a class/method or just use println here?)
+					
 					break;
 					
 				case 2:
-					RecycleLogEditor.editLog(scanner);
+					// feature: Recycling log
 					break;
 
 				case 3:
-					System.out.println("\nRecycle Log\n" + divider);
-					RecycleLogEditor.recycleLog.displayLog();
-					break;
-					
-				case 4:
-					RecyclingCalculator.run(scanner);
+					// add a feature
 					break;
 				
 				case 5:
